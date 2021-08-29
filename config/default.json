@@ -1,6 +1,6 @@
 {
 
-    "MONGO_URI":"mongodb+srv://abiram902:duraisamy902@cluster0.j2um6.mongodb.net/devconector?retryWrites=true&w=majority",
+    "MONGO_URI":"mongodb+srv://abiram902:d<password>@cluster0.j2um6.mongodb.net/devconector?retryWrites=true&w=majority",
 
     "jwtSecret" : "mysecret"
 }
